@@ -1,0 +1,5 @@
+C:\Users\pandora\appdata\Local\Programs\Python\Python36
+D:\软件安全下载目录\pyinstaller-pyinstaller-f482da7>C:\Users\pandora\appdata\Local\Programs\Python\Python36\python.exe pyinstaller.py -F
+ C:\Users\pandora\appdata\Local\Programs\Python\Python36\Scripts\you-get.exe -o e:/1 https://
+www.bilibili.com/video/av21933590
+C:\Users\pandora\AppData\Local\Microsoft\Windows\INetCookies
